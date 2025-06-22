@@ -41,3 +41,10 @@ This project aims to predict the likelihood of heart disease in patients using a
    ```bash
    git clone https://github.com/HunterRSloan/Heart-Disease-Predictor.git
    cd Heart-Disease-Predictor
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run Notebook
+   Open notebooks/SEProject.ipynb in Jupyter or Colab.
