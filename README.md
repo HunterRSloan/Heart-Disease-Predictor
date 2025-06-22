@@ -50,25 +50,25 @@ This project aims to predict the likelihood of heart disease in patients using a
 
    Open notebooks/SEProject.ipynb in Jupyter or Colab.
 
-📈 Visualizations & Feature Importance
+## 📈 Visualizations & Feature Importance
 
 - Feature importance plots
 - Training/validation accuracy/loss graphs (Neural Net)
 - Confusion matrices per model
 
-🧪 Evaluation Metrics
+## 🧪 Evaluation Metrics
 
 - Accuracy: Correct predictions
 - Sensitivity: Correctly predicted positive cases
 - Specificity: Correctly predicted negative cases
 - MCC: Balanced measure even for imbalanced datasets
 
-📘 Future Work
+## 📘 Future Work
 
 - Deploy the best model via Flask or Streamlit
 - Add visual dashboard for patient likelihood
 - Explore SHAP for model explainability
 
-📄 License
+## 📄 License
 
 - MIT License
